@@ -15,3 +15,11 @@ packages :
 `humanize-duration` to convert videos duration in hours min and seconds
 `rc-progress` to design circular progess or progess bar
 `react-simple-star-rating` to display star rating
+
+
+to install talwind css :
+https://tailwindcss.com/docs/installation/using-vite
+
+-> To use tailwind install it configue(in vite.config.js) the same
+-> install tailwind in frontend react project named as `client`
+npm install tailwindcss @tailwindcss/vite
