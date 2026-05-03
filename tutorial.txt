@@ -23,3 +23,9 @@ https://tailwindcss.com/docs/installation/using-vite
 -> To use tailwind install it configue(in vite.config.js) the same
 -> install tailwind in frontend react project named as `client`
 npm install tailwindcss @tailwindcss/vite
+
+to add google fonts :
+https://fonts.google.com/
+Search for outfit -> get the css code -> paste the code in index.css
+
+
